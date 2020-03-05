@@ -1,16 +1,5 @@
 # Object Tracking in Arduino
 
----
-**Credit**
-
-Contributors:
-- Nelson Edbert [[github](https://github.com/NelsonEW)]
-- Steven Rachman [[github]()]
-
-Special thank to Daniel Kurniadi for helping refactoring the code and github docs.
-- Daniel Kurniadi [[github](https://github.com/iqDF)]
----
-
 Object tracking is the process of locating and moving object or multiple objects over time. The object is detected from
 the input sensor.
 
@@ -39,3 +28,14 @@ Eye Display that display the movement of the object.
 1. Setup your arduino UNO microprocessor
 2. Setup arduino IDE to read and compile the code to your arduino processor
 3. Compile `Object_Tracking_Eye.ino` script to the arduino
+
+---
+**Credit**
+
+Project Contributors:
+- Nelson Edbert [[github](https://github.com/NelsonEW)]
+- Steven Rachman [[github]()]
+
+Thank to Daniel Kurniadi for helping refactoring the code and github docs.
+- Daniel Kurniadi [[github](https://github.com/iqDF)]
+---
